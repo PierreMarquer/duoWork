@@ -1,0 +1,14 @@
+<question type="matching">
+ <subquestion>
+     <text>This is the 1st item in the 1st pair.</text>
+     <answer>
+         <text>This is the 2nd item in the 1st pair.</text>
+     </answer>
+ </subquestion>
+ <subquestion>
+     <text>This is the 1st item in the 2nd pair.</text>
+     <answer>
+         <text>This is the 2nd item in the 2nd pair.</text>
+     </answer>
+ </subquestion>
+ <shuffleanswers>true</shuffleanswers>
