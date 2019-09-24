@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<question type="numerical">
+	<name>
+		<text>Choose one :</text>
+	</name>
+	<answer fraction="100">
+		<text>23</text>
+		<feedback><text>Correct</text></feedback>
+	</answer>
+	<answer fraction="0">
+		<text>42</text>
+		<feedback><text>Wrong</text></feedback>
+	</answer>
+</question>
+ 
